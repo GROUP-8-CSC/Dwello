@@ -49,3 +49,5 @@ def logout_controller():
         logout_user(user["user_id"])
 
         session_manager.current_user = None
+    
+    
