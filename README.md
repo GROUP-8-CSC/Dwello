@@ -1,4 +1,4 @@
-Dwello is a desktop real estate application built with Python, PostgreSQL, and CustomTkinter. The application allows users to create accounts, explore Lagos properties based on region and budget, save properties to their cart, and manage their personalized property selections.
+Dwello is a desktop real estate application built with Python, PostgreSQL, and Tkinter. The application allows users to create accounts, explore Lagos properties based on region and budget, save properties to their cart, and manage their personalized property selections.
 
 ---
 
@@ -21,7 +21,7 @@ Dwello is a desktop real estate application built with Python, PostgreSQL, and C
 
 - Python
 - PostgreSQL
-- CustomTkinter
+- Tkinter
 - Psycopg2
 - Pillow
 - Bcrypt
@@ -96,7 +96,7 @@ pip install -r requirements.txt
 # Required Libraries
 
 ```text
-customtkinter
+tkinter
 psycopg2
 pillow
 bcrypt
