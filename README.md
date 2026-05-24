@@ -283,4 +283,4 @@ python main.py
 
 # Author
 
-Dwello Development Team
+Dwello Development Team, Group 8, COS 102 100 Level CSC.
